@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Twitter Login Example</string>
+
+    <string name="user_not_logged">No user logged</string>
+
+    <string name="disconnect">Disconnect</string>
+
+    <string name="authentication_failed">Authentication failed, please try again.</string>
+    <string name="user_already_authenticated">User already authenticated</string>
+
+    <string name="user_id" translatable="false">User Id : %s</string>
+    <string name="user_name" translatable="false">User Name : %s</string>
+    <string name="user_email" translatable="false">Email : %s</string>
+    <string name="user_screen_name" translatable="false">Screen name : %s</string>
+</resources>

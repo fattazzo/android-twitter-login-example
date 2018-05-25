@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Twitter Login Example</string>
+
+    <string name="user_not_logged">Nessun utente loggato</string>
+
+    <string name="disconnect">Disconnetti</string>
+
+    <string name="authentication_failed">Authenticazione fallita, per favore riprova</string>
+    <string name="user_already_authenticated">Utente già autenticato</string>
+</resources>
